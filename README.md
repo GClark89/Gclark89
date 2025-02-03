@@ -8,4 +8,4 @@ Aspiring data analyst with a strong foundation in business operations, team coll
 - 📫 How to reach me: via email GarryClark89@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sports / Video Game Fanatic 
--->
+
