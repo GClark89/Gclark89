@@ -9,3 +9,7 @@ Aspiring data analyst with a strong foundation in business operations, team coll
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sports / Video Game Fanatic 
 
+## Skills 
+
+Programming:Python
+Data Maniplution:Pandas
