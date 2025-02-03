@@ -6,7 +6,6 @@ Aspiring data analyst with a strong foundation in business operations, team coll
 - 🌱 I’m currently learning Webscrapping, API'S , Data Visualizations while finishing Phase 1 of the program 
 - 💬 Reach out to network and bulild professional relationships.
 - 📫 How to reach me: via email GarryClark89@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sports / Video Game Fanatic 
 
 ## Skills 
