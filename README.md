@@ -11,5 +11,5 @@ Aspiring data analyst with a strong foundation in business operations, team coll
 
 ## Skills 
 
-Programming:Python
-Data Maniplution:Pandas
+- Programming:Python
+- Data Maniplution:Pandas
